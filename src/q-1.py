@@ -197,21 +197,6 @@ cnn = conv_neural_net()
 cnn.fit(input_img)
 
 
-# # Question 2
-
-# ### Part 1
-#     - 156 parameters in 1st convolution layer.
-# 
-# ### Part 2
-#     - There are no parameters on pooling layer.
-#     
-# ### Part 3
-#     - Fully Connected layer has most number of paramters. (approx. 4800)
-# 
-# ### Part 4
-#     - Fully connected layers take most amount of memory.
-
-# In[ ]:
 
 
 
